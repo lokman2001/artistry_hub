@@ -6,8 +6,10 @@ import WelcomeSection from './component/welcomeSection'
 import FeaturedArtworksSection from './component/featuredArtworksSection'
 import EventSpace from './component/eventSpace'
 import NewsLetterSpace from './component/NewsLetterSpace'
+import InvitationSpace from './component/InvitationSpace'
 import Event from './component/event'
 import News from './component/News'
+import Invitation from './component/Invitation'
 
 function App() {
 
@@ -25,6 +27,10 @@ function App() {
           <NewsLetterSpace>
             <News />
           </NewsLetterSpace>
+          <InvitationSpace>
+            <Invitation />
+          </InvitationSpace>
+
 
         </div>
 
