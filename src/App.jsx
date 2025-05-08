@@ -10,6 +10,9 @@ import InvitationSpace from './component/InvitationSpace'
 import Event from './component/event'
 import News from './component/News'
 import Invitation from './component/Invitation'
+import Footer from './component/footer'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 function App() {
 
@@ -30,10 +33,9 @@ function App() {
           <InvitationSpace>
             <Invitation />
           </InvitationSpace>
-
-
         </div>
-
+        <Footer></Footer>
+        <a href=""><FontAwesomeIcon icon="fa-brands fa-facebook" /></a>
 
       </main>
 
