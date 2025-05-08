@@ -3,8 +3,22 @@
     "version": "1.0",
     "pages": {
         "home": {
-            "events": [],
-            "news": []
+            "img": {
+                "img1": "link1",
+                "img2": "link2"
+            },
+            "events": [
+                {
+                    "heading": "Canvas and Light",
+                    "paragraph": "   Experience the magic where creativity meets illumination—Canvas & Light is a weekend art showcase featuring stunning works and inspiring artists. Join us every weekend from 7 AM to 7 PM and explore art in a whole new light!"
+                }
+            ],
+            "news": [
+                {
+                    "heading": "Behind the Canvas: Building New Perspectives",
+                    "paragraph": " Ever wondered what goes into preparing an exhibition? Go behind the scenes of our latest show, New Perspectives, and see how a blank gallery transforms into a storytelling space. Over four days, our team installed over 30 artworks—each with its own lighting plan, wall text, and spatial flow considerations. From selecting the right wall colors to last-minute adjustments with the artists, it’s a mix of precision and improvisation."
+                }
+            ]
         },
         "about": {},
         "art&artist": {},
