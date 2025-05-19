@@ -20,8 +20,97 @@
                 }
             ]
         },
-        "about": {},
-        "art&artist": {},
+        "about": {
+            "history": [
+                {
+                    "heading": "The Beginning: A Vision for Artistic Community",
+                    "paragraph": "In 1996, a small group of passionate artists and curators came together with a simple but powerful idea—to create a space where creativity could be nurtured and shared freely. Tired of rigid galleries and inaccessible institutions, they envisioned a welcoming environment where both emerging and established artists could experiment, collaborate, and be seen."
+                },
+                {
+                    "heading": "Opening the Doors",
+                    "paragraph": "After months of planning, fundraising, and transforming a vacant space in Rangoon, Artistry Hub opened its doors to the public. Our inaugural exhibition, Voices of the New Wave, featured local talent and attracted hundreds of visitors—setting the tone for the inclusive, community-centered vision that would guide our future."
+                },
+                {
+                    "heading": "Growth Through Collaboration",
+                    "paragraph": "In our early years, we actively partnered with schools, nonprofits, and independent creatives to host educational workshops, live art sessions, and cross-cultural exhibitions. These collaborations helped Artistry Hub become a vital platform for diverse voices, drawing creatives from across the region and beyond."
+                },
+                {
+                    "heading": "Milestones and Moments",
+                    "paragraph": "As we grew, so did our ambition. In [Year], we launched our annual Artistry Residency Program, offering space and support for artists to develop new work. By [Year], we had hosted over [#] exhibitions and welcomed thousands of visitors. Highlights included the critically acclaimed Beyond the Frame series and our first international group show, Art Without Borders."
+                },
+                {
+                    "heading": "Celebrating Diversity in Art",
+                    "paragraph": "Our curatorial philosophy centers on representation, experimentation, and storytelling. We actively seek to uplift marginalized voices and unconventional approaches—whether that means street art, digital installations, or cultural heritage crafts. We believe that art should reflect the world’s complexity and beauty in all its forms."
+                },
+                {
+                    "heading": "Resilience and Reinvention",
+                    "paragraph": "Even in challenging times—like the global pandemic—we adapted by launching online exhibitions, virtual artist talks, and a digital gallery platform. These innovations allowed us to reach wider audiences and keep the creative spirit alive, even when physical spaces were closed."
+                },
+                {
+                    "heading": "Looking Ahead",
+                    "paragraph": "Today, Artistry Hub continues to evolve. We’re expanding our space, launching new initiatives to support young artists, and deepening our community impact. Our future is guided by the same values we started with: creativity, inclusivity, and the belief that art has the power to connect, transform, and endure."
+                }
+            ],
+            "mission": [
+                {
+                    "heading": "Our Mission",
+                    "paragraph": "At Artistry Hub, our mission is to foster a vibrant and inclusive space where creativity thrives, diverse voices are celebrated, and artistic expression is accessible to all. We are committed to supporting artists at every stage of their journey—offering them a platform to exhibit, connect, and grow.Through dynamic exhibitions, community programs, and educational initiatives, we aim to ignite dialogue, inspire imagination, and build bridges between art and everyday life. Our purpose is to not only showcase art, but to cultivate it as a force for connection, understanding, and transformation."
+                }
+            ]
+        },
+        "artandartist": {
+            "design": {
+                "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg/960px-Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+                "img2": "https://courtauld.ac.uk/wp-content/uploads/2021/04/Landscape-with-the-Flight-into-Egypt-Banner.jpg",
+                "img3": "https://i.pinimg.com/736x/71/47/de/7147de38950b43f725bdfe284639339b.jpg",
+                "img4": "https://museums.blob.core.windows.net/useruploads/sg.netadmin/10393693_935274493154469_3459907899208623174_wallace.jpg"
+            },
+            "arts": [
+                {
+                    "type": "Academic art",
+                    "art": [
+                        {
+                            "title": "name",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alexandre_Cabanel_Ph%C3%A8dre.jpg/330px-Alexandre_Cabanel_Ph%C3%A8dre.jpg"
+                        },
+                        {
+                            "title": "name",
+                            "img": "https://lh3.googleusercontent.com/ci/AL18g_TM3q1hwDcjjZvWKWnVmcjIzWTnsl0xRIJCYHFREZabwbBaAeUL6SbabaOVYovNINrwOFJ8MkbH=s1200"
+                        },
+                        {
+                            "title": "name",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Winterhalter_Franz_Xavier_The_Empress_Eugenie_Surrounded_by_her_Ladies_in_Waiting.jpg/500px-Winterhalter_Franz_Xavier_The_Empress_Eugenie_Surrounded_by_her_Ladies_in_Waiting.jpg"
+                        }
+                    ]
+                },
+                {
+                    "type": "Romanticism",
+                    "art": [
+                        {
+                            "title": "name",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/George_Stubbs_-_A_Lion_Attacking_a_Horse_-_1955.27.1_-_Yale_University_Art_Gallery.jpg/800px-George_Stubbs_-_A_Lion_Attacking_a_Horse_-_1955.27.1_-_Yale_University_Art_Gallery.jpg"
+                        },
+                        {
+                            "title": "name",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Henry_Fuseli_%281741%E2%80%931825%29%2C_The_Nightmare%2C_1781.jpg/800px-Henry_Fuseli_%281741%E2%80%931825%29%2C_The_Nightmare%2C_1781.jpg"
+                        },
+                        {
+                            "title": "name",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1024px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg"
+                        }
+                    ]
+                },
+                {
+                    "type": "Realism",
+                    "art": [
+                        {
+                            "title": "",
+                            "img": ""
+                        }
+                    ]
+                }
+            ]
+        },
         "location": {}
     }
 }

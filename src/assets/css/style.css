@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+.about_bg {
+    background-image: url(../image/about_cover_AH.jpg);
+    height: 100vh;
+    background-blend-mode: darken;
+}
+
+.Art_bg {
+    background-image: url(../image/about_cover_AH.jpg);
+
+}
