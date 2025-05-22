@@ -9,8 +9,8 @@ export default function About() {
     let mission = Data.pages.about.mission
 
     return (
-        <div className=" about_bg pt-6">
-            <div className=" bg-white w-3/4 h-10/12 overflow-y-scroll m-auto p-6 shadow rounded-md">
+        <div className="  py-6">
+            <div className=" w-3/4  m-auto p-6 border-s-2">
                 <div>
                     <h1 className=" text-4xl ">
                         About Us

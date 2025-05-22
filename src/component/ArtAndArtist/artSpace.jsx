@@ -1,9 +1,6 @@
-import { useContext } from "react"
-import { AppContext } from "../../App"
 export default function ArtSpace({ children }) {
-    const { da }
     return (
-        <div >
+        <div className="w-10/12 mx-auto mb-4">
             {children}
         </div>
     )

@@ -65,20 +65,21 @@
                 "img3": "https://i.pinimg.com/736x/71/47/de/7147de38950b43f725bdfe284639339b.jpg",
                 "img4": "https://museums.blob.core.windows.net/useruploads/sg.netadmin/10393693_935274493154469_3459907899208623174_wallace.jpg"
             },
+            "artblock": "Art is not what you see. It is what breaks through the surface of sight and stirs something deeper. It is a mirror that lies and tells the truth at the same time. A dream you can touch, but never fully explain. To create art is not to decorate life—but to disturb it, gently.",
             "arts": [
                 {
                     "type": "Academic art",
                     "art": [
                         {
-                            "title": "name",
+                            "title": "Phèdre",
                             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alexandre_Cabanel_Ph%C3%A8dre.jpg/330px-Alexandre_Cabanel_Ph%C3%A8dre.jpg"
                         },
                         {
-                            "title": "name",
-                            "img": "https://lh3.googleusercontent.com/ci/AL18g_TM3q1hwDcjjZvWKWnVmcjIzWTnsl0xRIJCYHFREZabwbBaAeUL6SbabaOVYovNINrwOFJ8MkbH=s1200"
+                            "title": "The Execution of Lady Jane Grey",
+                            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PAUL_DELAROCHE_-_Ejecuci%C3%B3n_de_Lady_Jane_Grey_%28National_Gallery_de_Londres%2C_1834%29.jpg/960px-PAUL_DELAROCHE_-_Ejecuci%C3%B3n_de_Lady_Jane_Grey_%28National_Gallery_de_Londres%2C_1834%29.jpg"
                         },
                         {
-                            "title": "name",
+                            "title": "Empress Eugénie Surrounded by her Ladies in Waiting",
                             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Winterhalter_Franz_Xavier_The_Empress_Eugenie_Surrounded_by_her_Ladies_in_Waiting.jpg/500px-Winterhalter_Franz_Xavier_The_Empress_Eugenie_Surrounded_by_her_Ladies_in_Waiting.jpg"
                         }
                     ]
@@ -87,15 +88,15 @@
                     "type": "Romanticism",
                     "art": [
                         {
-                            "title": "name",
+                            "title": "A Lion Attacking a Horse",
                             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/George_Stubbs_-_A_Lion_Attacking_a_Horse_-_1955.27.1_-_Yale_University_Art_Gallery.jpg/800px-George_Stubbs_-_A_Lion_Attacking_a_Horse_-_1955.27.1_-_Yale_University_Art_Gallery.jpg"
                         },
                         {
-                            "title": "name",
+                            "title": "The Nightmare",
                             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Henry_Fuseli_%281741%E2%80%931825%29%2C_The_Nightmare%2C_1781.jpg/800px-Henry_Fuseli_%281741%E2%80%931825%29%2C_The_Nightmare%2C_1781.jpg"
                         },
                         {
-                            "title": "name",
+                            "title": "The Raft of the Medusa",
                             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/1024px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg"
                         }
                     ]
@@ -104,13 +105,40 @@
                     "type": "Realism",
                     "art": [
                         {
-                            "title": "",
-                            "img": ""
+                            "title": "The Wheat Sifters",
+                            "img": "https://www.theartist.me/wp-content/uploads/2020/05/25-famous-realism-paintings.png"
+                        },
+                        {
+                            "title": "In der Wirtsstube",
+                            "img": "https://media.mutualart.com/Images/2022_06/12/14/143857272/7e68ffd2-ed0f-479f-b83f-0062dd4dc995-570.Jpeg"
+                        },
+                        {
+                            "title": "The Village Festival",
+                            "img": "https://media.mutualart.com/Images/2021_11/21/21/214819577/a27ce7d6-bc73-4e58-8b06-84a52d617cc0_570.Jpeg"
                         }
                     ]
                 }
+            ],
+            "artists": [
+                {
+                    "name": "Salvador Dalí",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAbyRS5x9Q6piQ7ttfaydmP-zhOWu6TfKlYtSWQ29un8ABDpDIC6aduLm4KijS9rxKO4&usqp=CAU",
+                    "paragraph": "Salvador Dalí was a Spanish surrealist painter known for his dreamlike and bizarre artworks. His most famous painting, The Persistence of Memory, features melting clocks and explores the mystery of time. Dalí’s art was full of imagination, symbolism, and strange beauty. With his dramatic mustache and eccentric personality, he made both his life and his art unforgettable. He believed that creativity had no limits — only possibilities."
+                },
+                {
+                    "name": "Lun Gywe",
+                    "img": "data:image/jpeg;base64,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",
+                    "paragraph": "Lun Gywe is a renowned Burmese painter known for his graceful and expressive brushstrokes. His art, often featuring dancers and women, captures the elegance and spirit of Myanmar’s culture. Influenced by Impressionism, his use of light, color, and movement gives his paintings a sense of life and emotion. Lun Gywe’s work blends tradition with modern style, making him a true master of contemporary Myanmar art."
+                },
+                {
+                    "name": "Pablo Picasso",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8GiV3wjXVbNf_-a_w9FGMruDmRllbBlhcQ&s",
+                    "paragraph": "Pablo Picasso was a Spanish painter and sculptor who transformed the world of modern art. He is best known as the co-founder of Cubism, a style that broke traditional rules of perspective. His famous works like Guernica and Les Demoiselles d’Avignon reflect both deep emotion and bold innovation. Throughout his life, Picasso experimented with different styles, proving that true creativity knows no limits."
+                }
             ]
         },
-        "location": {}
+        "contact": {
+            "subtitle": "We’d love to hear from you — whether it’s about visiting, exhibiting, or just talking art."
+        }
     }
 }

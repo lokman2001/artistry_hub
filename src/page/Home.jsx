@@ -15,22 +15,24 @@ import { AppContext } from '../App'
 export default function Home() {
     const { mode } = useContext(AppContext)
     return (
-        <main>
-            <DisplayImg />
+        <>
+            <main>
+                <DisplayImg />
 
-            <div className='px-28 '>
-                <WelcomeSection />
-                <FeaturedArtworksSection />
-                <EventSpace>
-                    <Event />
-                </EventSpace>
-                <NewsLetterSpace>
-                    <News />
-                </NewsLetterSpace>
-                <InvitationSpace>
-                    <Invitation />
-                </InvitationSpace>
-            </div>
-        </main>
+                <div className='px-28 '>
+                    <WelcomeSection />
+                    <FeaturedArtworksSection />
+                    <EventSpace>
+                        <Event />
+                    </EventSpace>
+                    <NewsLetterSpace>
+                        <News />
+                    </NewsLetterSpace>
+                    <InvitationSpace>
+                        <Invitation />
+                    </InvitationSpace>
+                </div>
+            </main>
+        </>
     )
 }
