@@ -8,9 +8,9 @@ export default function Form() {
 
     const Send = () => {
         let message = {
-            name: Name,
-            purpose: Purpose,
-            message: Messages
+            name: Name.current.value,
+            purpose: Purpose.current.value,
+            message: Messages.current.value
         }
         console.log(message)
     }
